@@ -13,7 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-# 📌 This repository is a homework template for ML 2025 Spring.
+# 📌 This repository is a homework template for ML 2025 Spring. 
 # ❌ Do NOT fork.
 # ✅ Use the "Use this template" button at the top right to make a PRIVATE copy.
 
